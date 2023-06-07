@@ -1,4 +1,4 @@
-### Oi suo Rodrigo Ruivo 👋
+### Oi sou Rodrigo Ruivo 👋
 Analista Financeiro e de Dados em uma grande multinacional norte-americana. Já trabaalhei com atendimento ao público e gestão de pessoas.
 
 - 📈 Analista financeiro há 14 anos.
