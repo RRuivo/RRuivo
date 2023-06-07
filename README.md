@@ -1,5 +1,5 @@
 ### Oi sou Rodrigo Ruivo 👋
-Analista Financeiro e de Dados em uma grande multinacional norte-americana. Já trabaalhei com atendimento ao público e gestão de pessoas.
+Analista Financeiro e de Dados em uma grande multinacional norte-americana. Já trabalhei com atendimento ao público e gestão de pessoas.
 
 - 📈 Analista financeiro há 14 anos.
 - 📊 Analista de dados há 6 anos.
@@ -21,6 +21,8 @@ Analista Financeiro e de Dados em uma grande multinacional norte-americana. Já 
   <a href = "https://www.facebook.com/rodrigo.ruivo.56">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
+  
+  
 <!--
 **RRuivo/RRuivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
