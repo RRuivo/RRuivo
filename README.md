@@ -11,6 +11,8 @@ Analista Financeiro e de Dados em uma grande multinacional norte-americana. Já 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img width='50' height='50' src="https://doutoresdoexcel.com.br/wp-content/uploads/2017/02/social-default-image.png")
 </div>
+
+##
   
  ### - Você também me encontra em:
   <a href="https://www.linkedin.com/in/rodrigo-ruivo-a0300a83/">
