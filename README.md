@@ -1,20 +1,18 @@
-### Oi sou Rodrigo Ruivo 👋
-Analista Financeiro e de Dados em uma grande multinacional norte-americana. Já trabalhei com atendimento ao público e gestão de pessoas.
+### Hello! I´m Rodrigo Ruivo 👋
+Financial Data Analyst in a american multinacional.
 
-- 📈 Analista financeiro há 14 anos.
-- 📊 Analista de dados há 6 anos.
-- 🍔 Apaixonado por Hambúrger e Comida Japonesa 🍣.
-- 🖥️ Atualmente focado em:
+- 📊 Data Analyst since 2018.
+- 🍔 Love hamburguers and Japanese food 🍣.
+- 🖥️ Actually focused on :
 
 <div style='display: inline'>
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img width='50' height='50' src="https://doutoresdoexcel.com.br/wp-content/uploads/2017/02/social-default-image.png")
 </div>
 
 ##
   
- ### - Você também me encontra em:
+ ### - You can found me on:
   <a href="https://www.linkedin.com/in/rodrigo-ruivo-a0300a83/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
